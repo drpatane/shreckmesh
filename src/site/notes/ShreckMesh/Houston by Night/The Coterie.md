@@ -23,6 +23,7 @@ Mixed Camarilla, Anarch, and unaligned
 | Constance Cockerham     | Malkavian |
 | Olivia Setta            | Toreador  |
 | Teeth                   | Ravnos    |
+| Alabastra "Astra" Nero  | Tzimisce  |
 
 ### Domain 
 
