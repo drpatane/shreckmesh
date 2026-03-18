@@ -12,3 +12,4 @@
 4. [[ShreckMesh/V's Creed/The Shape of a Home\|The Shape of a Home]]
 5. [[ShreckMesh/V's Creed/Ambush\|Ambush]]
 6. [[ShreckMesh/V's Creed/A Show for the Watcher\|A Show for the Watcher]]
+7. [[ShreckMesh/V's Creed/Three Observations\|Three Observations]]
