@@ -5,7 +5,7 @@
 # Three Observations
 
 *observed on 2/18/2026*
-*Editor's note: I hope our anonymous poet forgives the title change. We must maintain some kind of organization here, even in the midst of artistic mania.*
+*Editor's note: We hope our anonymous poet forgives the title change. We must maintain some kind of organization here, even in the midst of artistic mania.*
 # Who I Would Be
 
 She thinks she is so cool
