@@ -4,6 +4,11 @@
 
 # Welcome
 
+> [!warning] MESH_INTRUSION
+> HEARTBEAT_DETECT: METANARRATIVE_EXCEPTION
+> HEARTBEAT_CLASS: STORYTELLER?
+>  **[[ShreckMesh/Houston by Night/Campaign Rules and References\|Campaign Rules and References]]**
+
 *created by DraC00La, 10/22/2025*
 *edited by DraC00La, 1/23/2026*
 
@@ -29,17 +34,6 @@ ICE in the streets, mysterious men in black, mortals dusting elders, something i
 *created (with regret) by DraC00La, 10/28/2025*
 
 Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
-
----
-> [!fail] WARNING
-> 
-> EVENT_DETECT: MESH_INTRUSION
-> PROBE_NXDOMAIN: FAILED
-> HEARTBEAT_EX_CLASS: OUTSIDE_CONTEXT
-> PROTOCOL: OPEN
-> Rules and player references here:
->  [[ShreckMesh/Houston by Night/STORYTELLER\|STORYTELLER]]
-> PROTOCOL: CLOSE
 
 
 
