@@ -2,12 +2,14 @@
 {"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/1-welcome/","tags":["gardenEntry"]}
 ---
 
-# Welcome
+
 
 > [!warning] MESH_INTRUSION
 > HEARTBEAT_DETECT: METANARRATIVE_EXCEPTION
 > HEARTBEAT_CLASS: STORYTELLER?
 >  **[[ShreckMesh/Houston by Night/Campaign Rules and References\|Campaign Rules and References]]**
+
+# Welcome
 
 *created by DraC00La, 10/22/2025*
 *edited by DraC00La, 1/23/2026*
