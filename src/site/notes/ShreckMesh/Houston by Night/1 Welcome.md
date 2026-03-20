@@ -20,14 +20,14 @@ What is this place? Why, it's SchreckNet 2.0! Now using the most secure and dece
 
 Houston's Kindred are a dramatic bunch, even more so after the primogen left. We cover that whole shitshow in [[ShreckMesh/Houston by Night/Houston for Childer(en)\|Houston for Childer(en)]]. 
 - [[ShreckMesh/Houston by Night/Prophecies\|Prophecies]]
+
 ## Important Kindred
 
 The Camarilla claims the whole city. The Anarchs claim the whole city. Both are liars. See [[ShreckMesh/Houston by Night/The Court of Houston\|The Court of Houston]] for the Camarilla licks who think they run the place. [[ShreckMesh/Houston by Night/Anarch-y in Houston\|Anarch-y in Houston]] does the same thing for the Anarchs who think they're revolutionaries. Same parasites, different night. 
+
 ## The Inquisition
 
 ICE in the streets, mysterious men in black, mortals dusting elders, something is going on in Houston. [[ShreckMesh/Houston by Night/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]] keeps track so you can die another day.
-
-
 
 ---
 # *[[ShreckMesh/V's Creed/V's Creed\|V's Creed]]*
