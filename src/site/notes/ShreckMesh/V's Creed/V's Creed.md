@@ -13,3 +13,4 @@
 5. [[ShreckMesh/V's Creed/Ambush\|Ambush]]
 6. [[ShreckMesh/V's Creed/A Show for the Watcher\|A Show for the Watcher]]
 7. [[ShreckMesh/V's Creed/Three Observations\|Three Observations]]
+8. [[ShreckMesh/V's Creed/Words We Follow\|Words We Follow]]
