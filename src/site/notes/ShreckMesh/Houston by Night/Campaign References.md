@@ -9,8 +9,9 @@
 # Campaign References
 
 Relevant out-of-character references or information. 
-## Alex's Kanban Board
+## Alex's Kanban 
 
+Like a quest tracker, but more stressed out.
 ### To Do
 1. Return Bear to Deker Raine, avoid pissing off the Baron
 2. Execute the distraction party at the Museum of Fine Arts
@@ -23,21 +24,6 @@ Relevant out-of-character references or information.
 ### In Progress
 1. Discover who explosively exsanguinated an Order of St. Leopold priest
 2. Figure out what the page from the Tremere Primogen's haven means
-
-Like a quest tracker, but more stressed out.
-
-| To Do                                                                        | In Progress                                                           | Done |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---- |
-|                                                                              | Discover who explosively exsanguinated an Order of St. Leopold priest |      |
-|                                                                              | Figure out what the page from the Tremere Primogen's haven means      |      |
-| Return Bear to Deker Raine, avoid pissing off the Baron                      |                                                                       |      |
-| Execute the distraction party at the Museum of Fine Arts<br>                 |                                                                       |      |
-| Steal the weird letters from the Museum of Fine Arts<br>                     |                                                                       |      |
-| Check out Genevieve's Haven and deliver her to Father Rafael/The Sheriff<br> |                                                                       |      |
-| Visit the hunter's address in the Woodlands                                  |                                                                       |      |
-| Deal with the Man in Black                                                   |                                                                       |      |
-| Whatever the fuck is going on with Teeth                                     |                                                                       |      |
-
 ## Rules and Resources
 
 Various rule and campaign out of character info can be found here. 
