@@ -7,10 +7,8 @@
 
 
 # Campaign References
-
 Relevant out-of-character references or information. 
 ## Alex's Kanban 
-
 Like a quest tracker, but more stressed out.
 ### To Do
 1. Return Bear to Deker Raine, avoid pissing off the Baron
@@ -20,14 +18,12 @@ Like a quest tracker, but more stressed out.
 5. Visit the hunter's address in the Woodlands
 6. Deal with the Man in Black
 7. Whatever the fuck is going on with Teeth
-
 ### In Progress
 1. Discover who explosively exsanguinated an Order of St. Leopold priest
 2. Figure out what the page from the Tremere Primogen's haven means
-## Rules and Resources
 
-Various rule and campaign out of character info can be found here. 
-
+---
+## Rules 
 - [[ShreckMesh/Houston by Night/Campaign Boundaries\|Campaign Boundaries]], for everyone's limits. 
 - [[ShreckMesh/Houston by Night/The Coterie\|The Coterie]], your group resources and contacts. 
 - [[ShreckMesh/Houston by Night/Relationship Map\|Relationship Map]], how you know each other and how you feel about it. 
