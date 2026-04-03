@@ -4,6 +4,8 @@
 
 # Words We Follow
 
+*observed on 3/19/2026*
+
 The Rider brought out the words 
 From the Bear 
 At the end of a knife
@@ -22,8 +24,7 @@ Before putting it back in her purse
 The Mortician found fetters
 From the recently dead 
 
-At the Rider's signal
-The Shadow drove a stake
+The Rider drove the Shadow's stake
 Into the Bear's unbeating heart
 A package to be delivered
 To the Bear's baron
@@ -33,6 +34,57 @@ That dared toy with old pain
 And, in the middle of it all
 The arrival of an alabaster car
 The driver stood tall
+Opening the door for one
+Who stood taller
+The Statue 
+Sedate
+Controlled
+Stood unfolding
+Like a long legged spider
+"Wow. You're tall."
+Were the words from the Poet.
+Tongue reduced to babbling 
+Like a simple witted babe 
+
+The Statue had arrived 
+Following the words of prophecy 
+The Seer conferred 
+With her prophetic kin
+Big Cheese
+Whose words seemed to speak of the Five
+Now Six?
+
+The Pretender
+The Vessel
+The Fearful
+The Mother
+The Ensnared
+Encounter the Beast
+At the tavern of the wanderer
+
+Who among us is who?
+Which shall be our names?
+Which were they always?
+
+The Six take the Rider's friends
+To a safe house in the woods 
+
+The Shadow speaks to her sire
+
+The Poet assists the Mortician 
+In the morbid work 
+Of disposing of mortals
+With a record on the turntable
+And the donning of rubber gloves 
+
+The Rider kicks down the door to a motel
+
+And, the rest of us follow
+
+As she is stopped by the sight
+Of something on a table
+A tiny pyramid of three
+Yellow gold pomegranatesThe driver stood tall
 Opening the door for one
 Who stood taller
 The Statue 
