@@ -5,7 +5,7 @@
 > [!failure] MESH_INTRUSION
 > HEARTBEAT_DETECT: METANARRATIVE_EXCEPTION
 > HEARTBEAT_CLASS: STORYTELLER?
->   **[[ShreckMesh/Houston by Night/Campaign Rules and References\|Campaign Rules and References]]**
+>   **[[ShreckMesh/Houston by Night/Campaign References\|Campaign References]]**
 # Welcome
 
 *created by DraC00La, 10/22/2025*
