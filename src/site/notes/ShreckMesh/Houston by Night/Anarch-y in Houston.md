@@ -13,7 +13,7 @@ This Nosferatu is glad Caine no longer walks among us because if he could see th
 Don't laugh it's what they call themselves. No I don't know what revolution they're talking about either. But if you want to talk to some arrogant losers who believe they speak for the rest of Houston's Anarchs, here you go. 
 
 **Brujah**: [[Baron "Menela"\|Baron "Menela"]] (yes that's what she calls herself no nobody knows her real name)
-**Gangrel**: [[Baron Deker Raine\|Baron Deker Raine]]
+**Gangrel**: [[3 Characters/3.2 NPCs/Baron Deker Raine\|Baron Deker Raine]]
 **Ministry**: No baron, but if some kindred is running a grift odds are it's one of these guys.
 
 There's plenty of assorted other kindred slumming it with the Anarchs, even if their clan has a seat on the Council.
