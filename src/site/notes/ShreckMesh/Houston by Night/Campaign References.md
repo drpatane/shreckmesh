@@ -11,16 +11,26 @@ Relevant out-of-character references or information.
 ## Alex's Kanban 
 Like a quest tracker, but more stressed out.
 ### To Do
-1. Return Bear to Deker Raine, avoid pissing off the Baron
-2. Execute the distraction party at the Museum of Fine Arts
-3. Steal the weird letters from the Museum of Fine Arts
-4. Check out Genevieve's Haven and deliver her to Father Rafael/The Sheriff
-5. Visit the hunter's address in the Woodlands
-6. Deal with the Man in Black
-7. Whatever the fuck is going on with Teeth
+1. Check out Genevieve's Haven and deliver her to Father Rafael/The Sheriff
+2. Visit the hunter's address in the Woodlands
+3. Deal with the Man in Black
+4. Whatever the fuck is going on with Teeth
 ### In Progress
-1. Discover who explosively exsanguinated an Order of St. Leopold priest
-2. Figure out what the page from the Tremere Primogen's haven means
+1.  Execute the distraction party at the Museum of Fine Arts
+2. Steal the weird letters from the Museum of Fine Arts
+3. Discover who explosively exsanguinated an Order of St. Leopold priest
+4. Figure out what the page from the Tremere Primogen's haven means
+
+### Completed
+- Return Bear to Deker Raine, avoid pissing off the Baron
+	- He seemed weird but otherwise fine
+
+## Current Experience
+
+| Campaign Running Total:     | 28  |
+| --------------------------- | --- |
+| Session XP (2 per session): | 18  |
+| Story/Quest Completion:     | 10  |
 
 ---
 ## Rules 
