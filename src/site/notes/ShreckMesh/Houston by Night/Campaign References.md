@@ -27,10 +27,11 @@ Like a quest tracker, but more stressed out.
 
 ## Current Experience
 
-| Campaign Running Total:     | 28  |
-| --------------------------- | --- |
-| Session XP (2 per session): | 18  |
-| Story/Quest Completion:     | 10  |
+| Sources                     | Points |
+| :-------------------------- | :----: |
+| Session XP (2 per session): |   18   |
+| Story/Quest Completion:     |   10   |
+| **Running Total**           | **28** |
 
 ---
 ## Rules 
