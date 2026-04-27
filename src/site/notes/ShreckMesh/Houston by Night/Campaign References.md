@@ -25,6 +25,7 @@ Like a quest tracker, but more stressed out.
 - Return Bear to Deker Raine, avoid pissing off the Baron
 	- He seemed weird but otherwise fine
 
+--- 
 ## Current Experience
 
 | Sources                     | Points |
