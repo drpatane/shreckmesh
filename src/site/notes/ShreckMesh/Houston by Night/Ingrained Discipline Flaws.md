@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/ingrained-discipline-flaws/"}
+---
+
+# Ingrained Discipline Flaws
+
+Source: p. 108 of *Tattered Facade*
+
+### Animalism Flaw: Untamed
+Such a tight relationship with the Beast comes at a cost, as it refuses to be leashed. Failing to Ride the Wave during Frenzy inflicts two Stains. Convictions cannot mitigate these Stains.
+### Auspex Flaw: Daymares
+While rarely recalling more than an acute sense of terror, the vampire’s daylight rest becomes plagued by horrifying visions, causing them to sweat blood. When awakening for the night, make two Rouse Checks instead of the usual one.
+### Blood Sorcery Flaw: Sanguinary Animism
+The sorcerer has become so attuned to reading the vagaries of blood that during feeding, the flood of information and voices from the victim cannot be avoided, even persisting beyond the hunt. For any scene following a feeding, the vampire loses two dice from all Social and Mental pools due to the distraction.
+### Celerity Flaw: Breakdown
+The vampire’s physiology runs at the same pace as the vampire, burning blood and energy at equal volumes. Whenever the vampire fails a Rouse Check when activating a Celerity power, they sustain a point of Aggravated Health damage, and their body withers and ages before their very eyes.
+### Dominate Flaw: Blunt
+The strain of enforcing their will upon others erodes something critical in the mind of the dominator, making mundane social interactions fraught. Vampires with this Flaw cannot spend Willpower to reroll a Social test.
+### Fortitude Flaw: Scar Tissue
+This Flaw impairs the vampire’s ability to maintain the appearance of health following an injury. While rousing the Blood restores Health as normal, the physical appearance of any injuries sustained remains until they rest for the day. This can easily result in Masquerade breaches if not carefully managed.
+### Obfuscate Flaw: Faded
+The vampire spends so much time hiding from others that they have begun to forget who they truly are. This lack of conviction weakens their moral fortitude and makes them second-guess decisions. When making Remorse tests, the vampire rolls one fewer die (the one-die minimum still applies).
+### Oblivion Flaw: Monstrous
+The forces of Oblivion sap away at the vampire’s connection to even their sham life. Treat the vampire’s Humanity rating as if it were three levels lower for such things as Blush of Life, Social dice pools, physical appearance, etc. If this takes the rating below one, they gain the Repulsive Flaw —perhaps they appear as a rotting corpse, their shadow constantly taunts them, or reflections reveals only inner darkness. This Flaw does not affect daytime dice pools or how many Remorse dice they roll.
+### Potence Flaw: Killer Instinct
+When the blood’s up, the echo of the Beast is never far away, and the unholy strength of Potence only serves to feed it. If the character fails a Rouse Check when activating a Potence power, they must immediately test for Fury Frenzy as if physically provoked.
+### Presence Flaw: Egomaniac
+Having had others consistently fawn over you has stroked your ego to the point where you can’t tolerate a world without you at its center. Whenever a Presence power generates a messy critical or fails to sway your target, you must make a Fury Frenzy test at Difficulty 2.
+### Protean Flaw: Stasis
+The vampire’s static nature rebels against the forces of change. If the vampire fails a Rouse Check while activating a Protean power, when they revert to their normal form the change is incomplete — dulled and useless claws persist, a foot remains stuck in the soil, or the fleshcrafter finds their skin attached to their subject. Unfinished transformations never provide any benefit. The vampire must remove the affected area (sustaining one Aggravated damage) or wait for it to revert (un)naturally during day-sleep.

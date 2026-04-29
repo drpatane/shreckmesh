@@ -25,15 +25,14 @@ Relevant out-of-character references or information.
 
 ---
 
-## ## Current Experience
+## Current Experience
 
 | Sources                     | Points |
 | :-------------------------- | :----: |
 | Session XP (2 per session): |   18   |
 | Story/Quest Completion:     |   10   |
 | **Running Total**           | **28** |
-
-## Leveling Costs
+## Spending Experience
 
 Note: "New level" refers to the number of the level you'll be moving up to. For example, if you were moving from Level 1 of Obfuscate to Level 2, you would need to spend 2x5, or 10, experience points. 
 
@@ -49,12 +48,20 @@ Note: "New level" refers to the number of the level you'll be moving up to. For 
 | Thin Blood Formula      | formula level x 3                 |
 | Advantage               | 3 per dot                         |
 | Blood Potency           | new level x 10                    |
+## Ingrained Discipline Optional Flaw
 
-#### [[ShreckMesh/Houston by Night/Campaign Boundaries\|Campaign Boundaries]], for everyone's limits. 
-- [[ShreckMesh/Houston by Night/The Coterie\|The Coterie]], your group resources and contacts. 
-- [[ShreckMesh/Houston by Night/Relationship Map\|Relationship Map]], how you know each other and how you feel about it. 
-- [[ShreckMesh/Houston by Night/What Them Dice Do\|What Them Dice Do]], how to interpret the dice and count your rolls.
-- [[ShreckMesh/Houston by Night/Experience and Leveling\|Experience and Leveling]] how to spend experience on getting new stuff and skills. 
-- [[ShreckMesh/Houston by Night/New Discipline Power Steps\|New Discipline Power Steps]]
+Once you get three dots in a Discipline, you have the option of taking this flaw at no cost. See [[ShreckMesh/Houston by Night/Ingrained Discipline Flaws\|Ingrained Discipline Flaws]], or p. 108 of *Tattered Facade*, for the flaw specific to the discipline you chose. This flaw now affects you permanently. 
+
+Selecting this flaw allows you to purchase a **total of three ranks** of new powers from that discipline. For example: three level 1 powers, one level 3 power, or a level 1 and a level 2 power. You can buy them at any time as long as you have the points to spend. You spend the same number of points (level x 5) as you would normally. 
+
+You can only have one Ingrained Discipline flaw, and it can only be in a clan discipline.
+
+---
+## Other References
+[[ShreckMesh/Houston by Night/Campaign Boundaries\|Campaign Boundaries]], for everyone's limits. 
+[[ShreckMesh/Houston by Night/Your Coterie Sheet\|Your Coterie Sheet]], your group resources and contacts. 
+[[ShreckMesh/Houston by Night/Relationship Map\|Relationship Map]], how you know each other and how you feel about it. 
+[[ShreckMesh/Houston by Night/What Them Dice Do\|What Them Dice Do]], how to interpret the dice and count your rolls.
+[[ShreckMesh/Houston by Night/New Discipline Power Steps\|New Discipline Power Steps]]
 
 
