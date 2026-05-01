@@ -6,9 +6,9 @@
 
 | Sources                     | Points |
 | :-------------------------- | :----: |
-| Session XP (2 per session): |   18   |
-| Story/Quest Completion:     |   10   |
-| **Running Total**           | **28** |
+| Session XP (2 per session): |   20   |
+| Story/Quest Completion:     |   15   |
+| **Running Total**           | **35** |
 
 # Leveling Costs
 
