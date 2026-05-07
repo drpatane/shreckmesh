@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/nightlife-literally/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/nightlife-literally/","dg-note-properties":{}}
 ---
 
 # Nightlife, Literally

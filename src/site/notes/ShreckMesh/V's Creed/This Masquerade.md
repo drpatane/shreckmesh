@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/this-masquerade/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/this-masquerade/","dg-note-properties":{}}
 ---
 
 # This Masquerade

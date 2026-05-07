@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/there-were-five/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/there-were-five/","dg-note-properties":{}}
 ---
 
 

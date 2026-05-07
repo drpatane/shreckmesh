@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/lamb-s-blood/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/lamb-s-blood/","dg-note-properties":{}}
 ---
 
 # Lamb's Blood

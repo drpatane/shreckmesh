@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/sheriff-rosenberg/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/sheriff-rosenberg/","dg-note-properties":{"aliases":["Violet Rosenberg"]}}
 ---
 
 # Violet Rosenberg, Sheriff of Houston

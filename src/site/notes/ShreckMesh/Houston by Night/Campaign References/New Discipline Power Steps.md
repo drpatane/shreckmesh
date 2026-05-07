@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/new-discipline-power-steps/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/new-discipline-power-steps/","dg-note-properties":{}}
 ---
 
 # Buying New Powers

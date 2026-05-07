@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/ambush/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/ambush/","dg-note-properties":{}}
 ---
 
 

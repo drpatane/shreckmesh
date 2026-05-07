@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/your-coterie-sheet/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/your-coterie-sheet/","dg-note-properties":{}}
 ---
 
 # The "Not Prostitutes"

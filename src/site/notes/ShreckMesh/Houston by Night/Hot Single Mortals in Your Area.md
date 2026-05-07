@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/hot-single-mortals-in-your-area/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/hot-single-mortals-in-your-area/","dg-note-properties":{}}
 ---
 
 # Hot Single Mortals in Your Area...that want you dead

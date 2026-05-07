@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/campaign-boundaries/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/campaign-boundaries/","dg-note-properties":{}}
 ---
 
 # Boundaries

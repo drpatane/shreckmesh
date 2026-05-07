@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/a-string-to-pull/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/a-string-to-pull/","dg-note-properties":{}}
 ---
 
 # A String to Pull

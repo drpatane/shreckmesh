@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/news/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/news/","dg-note-properties":{}}
 ---
 
 # News

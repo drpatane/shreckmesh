@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/the-court-of-houston/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/the-court-of-houston/","dg-note-properties":{}}
 ---
 
 # The Court of Houston

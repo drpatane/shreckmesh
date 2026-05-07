@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/prophecies/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/prophecies/","dg-note-properties":{}}
 ---
 
 # Prophecies

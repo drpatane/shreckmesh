@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/houston-for-childer-en/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/houston-for-childer-en/","dg-note-properties":{}}
 ---
 
 

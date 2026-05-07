@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/the-shape-of-a-home/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/the-shape-of-a-home/","dg-note-properties":{}}
 ---
 
 

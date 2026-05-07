@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/ingrained-discipline-flaws/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/ingrained-discipline-flaws/","dg-note-properties":{}}
 ---
 
 # Ingrained Discipline Flaws

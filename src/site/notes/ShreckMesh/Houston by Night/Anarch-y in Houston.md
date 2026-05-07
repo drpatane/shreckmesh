@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/anarch-y-in-houston/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/anarch-y-in-houston/","dg-note-properties":{}}
 ---
 
 

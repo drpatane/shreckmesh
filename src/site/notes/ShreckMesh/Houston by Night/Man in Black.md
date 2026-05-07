@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/man-in-black/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/man-in-black/","dg-note-properties":{}}
 ---
 
 # The Man in Black

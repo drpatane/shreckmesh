@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/three-observations/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/three-observations/","dg-note-properties":{"al":"Three Observations"}}
 ---
 
 # Three Observations

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/words-we-follow/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/words-we-follow/","dg-note-properties":{}}
 ---
 
 # Words We Follow

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/campaign-references/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/campaign-references/campaign-references/","dg-note-properties":{}}
 ---
 
 # Campaign References

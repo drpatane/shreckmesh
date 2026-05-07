@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/v-s-creed/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/v-s-creed/","dg-note-properties":{"aliases":["Don't ask me for anything else ever again"]}}
 ---
 
 # *V's Creed*

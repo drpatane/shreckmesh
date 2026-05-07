@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/a-show-for-the-watcher/"}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/a-show-for-the-watcher/","dg-note-properties":{}}
 ---
 
 # A Show for the Watcher
