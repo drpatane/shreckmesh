@@ -12,7 +12,7 @@ Not much to introduce. If you've made it to your second night in this city, you 
 
 **Prince**: [[3 Characters/3.2 NPCs/Castor Augustus\|Castor Augustus]], Clan Ventrue
 **Seneschal**: None appointed, formerly held by Castor Augustus 
-**Sheriff**: [[ShreckMesh/Sheriff Rosenberg\|Violet Rosenberg]], Clan Banu Hakim
+**Sheriff**: [[ShreckMesh/Kindred and Kine/Sheriff Rosenberg\|Violet Rosenberg]], Clan Banu Hakim
 **Herald**: None appointed 
 **Principal of the Faith**: [[3 Characters/3.2 NPCs/Francesca Aragon\|Francesca Aragon]], Clan Lasombra
 
