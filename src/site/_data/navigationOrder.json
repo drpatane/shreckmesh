@@ -10,23 +10,26 @@
     "The Court of Houston",
     "Anarch-y in Houston",
     "Hot Single Mortals in Your Area",
-    "Man in Black",
+    "Kindred and Kine",
     "V's Creed",
     "Campaign References"
   ],
+  "/ShreckMesh/Kindred and Kine": [
+    "Man in Black"
+  ],
   "/ShreckMesh/V's Creed": [
     "V's Creed",
-    "1 There Were Five",
-    "2 Lamb's Blood",
-    "3 A String to Pull",
-    "4 The Shape of a Home",
-    "5 Ambush",
-    "6 A Show for the Watcher",
-    "7 Three Observations",
-    "8 Words We Follow",
-    "9 Questions with No Answers",
-    "10 This Masquerade",
-    "11 Midnight"
+    "1 - There Were Five",
+    "10 - This Masquerade",
+    "11 - Midnight",
+    "2 - Lamb's Blood",
+    "3 - A String to Pull",
+    "4 - The Shape of a Home",
+    "5 - Ambush",
+    "6 - A Show for the Watcher",
+    "7 - Three Observations",
+    "8 - Words We Follow",
+    "9 - Questions with No Answers"
   ],
   "/ShreckMesh/Campaign References": [
     "Campaign References",
