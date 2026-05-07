@@ -4,10 +4,6 @@
   ],
   "/ShreckMesh": [
     "Houston by Night",
-    "V's Creed"
-  ],
-  "/ShreckMesh/Houston by Night": [
-    "Houston by Night",
     "News",
     "Prophecies",
     "Houston for Childer(en)",
@@ -15,18 +11,8 @@
     "Anarch-y in Houston",
     "Hot Single Mortals in Your Area",
     "Man in Black",
-    "Campaign References",
-    "Nightlife, Literally",
-    "Sheriff Rosenberg"
-  ],
-  "/ShreckMesh/Houston by Night/Campaign References": [
-    "Campaign References",
-    "Ingrained Discipline Flaws",
-    "Campaign Boundaries",
-    "Your Coterie Sheet",
-    "Relationship Map",
-    "What Them Dice Do",
-    "New Discipline Power Steps"
+    "V's Creed",
+    "Campaign References"
   ],
   "/ShreckMesh/V's Creed": [
     "A Show for the Watcher",
@@ -40,5 +26,14 @@
     "Three Observations",
     "V's Creed",
     "Words We Follow"
+  ],
+  "/ShreckMesh/Campaign References": [
+    "Campaign Boundaries",
+    "Campaign References",
+    "Ingrained Discipline Flaws",
+    "New Discipline Power Steps",
+    "Relationship Map",
+    "What Them Dice Do",
+    "Your Coterie Sheet"
   ]
 }
