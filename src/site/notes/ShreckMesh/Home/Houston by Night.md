@@ -28,8 +28,7 @@ The Camarilla claims the whole city. The Anarchs claim the whole city. Both are 
 - [[ShreckMesh/Kindred and Kine/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]: ICE in the streets, mysterious men in black, mortals dusting elders. We keep track so you can final death another day.
 
 ---
-# *[[ShreckMesh/V's Creed/Observations\|Observations]]*
-
+# [[ShreckMesh/V's Creed/V's Creed\|V's Creed]]
 *created (with regret) by DraC00La, 10/28/2025*
 
 Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
