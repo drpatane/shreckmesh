@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/v-s-creed/","dg-note-properties":{}}
 ---
 
-# *V's Creed*
-
-### Observed by V
+# Observations
 
 [[ShreckMesh/V's Creed/1 - There Were Five\|1 - There Were Five]]
 [[ShreckMesh/V's Creed/2 - Lamb's Blood\|2 - Lamb's Blood]]
