@@ -3,13 +3,16 @@
     "ShreckMesh"
   ],
   "/ShreckMesh": [
-    "Houston by Night",
-    "News",
-    "Prophecies",
-    "Houston for Childer(en)",
+    "Home",
     "Kindred and Kine",
     "V's Creed",
     "Campaign References"
+  ],
+  "/ShreckMesh/Home": [
+    "Houston by Night",
+    "News",
+    "Prophecies",
+    "Houston for Childer(en)"
   ],
   "/ShreckMesh/Kindred and Kine": [
     "The Court of Houston",
