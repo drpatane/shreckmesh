@@ -23,9 +23,9 @@ Malkavian bullshit and other ephemera.
 Houston's Kindred are a dramatic bunch, even more so after the primogen left. A short history of modern nights.
 ### Important Kindred and Kine
 The Camarilla claims the whole city. The Anarchs claim the whole city. Both are liars.
-- [[ShreckMesh/The Court of Houston\|The Court of Houston]]: the Camarilla licks who think they run the place. 
-- [[ShreckMesh/Anarch-y in Houston\|Anarch-y in Houston]]: the Anarchs who think they're revolutionaries. Same parasites, different night. 
-- [[ShreckMesh/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]: ICE in the streets, mysterious men in black, mortals dusting elders. We keep track so you can final death another day.
+- [[ShreckMesh/Kindred and Kine/The Court of Houston\|The Court of Houston]]: the Camarilla licks who think they run the place. 
+- [[ShreckMesh/Kindred and Kine/Anarch-y in Houston\|Anarch-y in Houston]]: the Anarchs who think they're revolutionaries. Same parasites, different night. 
+- [[ShreckMesh/Kindred and Kine/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]: ICE in the streets, mysterious men in black, mortals dusting elders. We keep track so you can final death another day.
 
 ---
 # *[[ShreckMesh/V's Creed/V's Creed\|V's Creed]]*
