@@ -7,19 +7,22 @@
     "News",
     "Prophecies",
     "Houston for Childer(en)",
-    "Nightlife, Literally",
     "Kindred and Kine",
     "V's Creed",
     "Campaign References"
   ],
   "/ShreckMesh/Kindred and Kine": [
     "Sects",
+    "Places",
     "Individuals"
   ],
   "/ShreckMesh/Kindred and Kine/Sects": [
     "Anarch-y in Houston",
     "Hot Single Mortals in Your Area",
     "The Court of Houston"
+  ],
+  "/ShreckMesh/Kindred and Kine/Places": [
+    "Nightlife, Literally"
   ],
   "/ShreckMesh/Kindred and Kine/Individuals": [
     "Man in Black"
