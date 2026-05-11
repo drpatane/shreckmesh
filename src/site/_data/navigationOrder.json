@@ -7,25 +7,22 @@
     "News",
     "Prophecies",
     "Houston for Childer(en)",
+    "Sects and Politics",
     "Kindred and Kine",
+    "Places",
     "V's Creed",
     "Campaign References"
   ],
-  "/ShreckMesh/Kindred and Kine": [
-    "Sects",
-    "Places",
-    "Individuals"
-  ],
-  "/ShreckMesh/Kindred and Kine/Sects": [
+  "/ShreckMesh/Sects and Politics": [
+    "The Court of Houston",
     "Anarch-y in Houston",
-    "Hot Single Mortals in Your Area",
-    "The Court of Houston"
+    "Hot Single Mortals in Your Area"
   ],
-  "/ShreckMesh/Kindred and Kine/Places": [
-    "Nightlife, Literally"
-  ],
-  "/ShreckMesh/Kindred and Kine/Individuals": [
+  "/ShreckMesh/Kindred and Kine": [
     "Man in Black"
+  ],
+  "/ShreckMesh/Places": [
+    "Nightlife, Literally"
   ],
   "/ShreckMesh/V's Creed": [
     "V's Creed",
@@ -42,12 +39,12 @@
     "11 - Midnight"
   ],
   "/ShreckMesh/Campaign References": [
-    "Main References",
     "Ingrained Discipline Flaws",
     "Campaign Boundaries",
     "Your Coterie Sheet",
     "Relationship Map",
     "New Discipline Power Steps",
-    "What Them Dice Do"
+    "What Them Dice Do",
+    "Campaign References"
   ]
 }
