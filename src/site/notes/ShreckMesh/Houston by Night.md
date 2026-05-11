@@ -20,11 +20,11 @@ Shit happens. Sometimes Kindred need to know about it. Being aloof didn't help t
 ### [[ShreckMesh/Prophecies\|Prophecies]]
 Malkavian bullshit and other ephemera.
 ### Kindred and Kine
-- [[ShreckMesh/Sects and Politics/The Court of Houston\|The Court of Houston]], Camarilla who will abuse you.
-- [[ShreckMesh/Sects and Politics/Anarch-y in Houston\|Anarch-y in Houston]], Anarchs who will abuse you.
-- [[ShreckMesh/Sects and Politics/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]], Mortals who will dust you.
-- [[ShreckMesh/Places/Nightlife, Literally\|Nightlife, Literally]], Elysia, kindred haunts, and how to avoid winding up in a Lupine bar
-- [[ShreckMesh/Sects and Politics/Houston for Childer(en)\|Houston for Childer(en)]], Houston's Kindred are a dramatic bunch, even more so after the primogen left. A short history of modern nights.
+- [[ShreckMesh/Kindred and Kine/Sects and Politics/The Court of Houston\|The Court of Houston]], Camarilla who will abuse you.
+- [[ShreckMesh/Kindred and Kine/Sects and Politics/Anarch-y in Houston\|Anarch-y in Houston]], Anarchs who will abuse you.
+- [[ShreckMesh/Kindred and Kine/Sects and Politics/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]], Mortals who will dust you.
+- [[ShreckMesh/Kindred and Kine/Places/Nightlife, Literally\|Nightlife, Literally]], Elysia, kindred haunts, and how to avoid winding up in a Lupine bar
+- [[ShreckMesh/Kindred and Kine/Sects and Politics/Houston for Childer(en)\|Houston for Childer(en)]], Houston's Kindred are a dramatic bunch, even more so after the primogen left. A short history of modern nights.
 
 ---
 # [[ShreckMesh/V's Creed/V's Creed\|V's Creed]]
