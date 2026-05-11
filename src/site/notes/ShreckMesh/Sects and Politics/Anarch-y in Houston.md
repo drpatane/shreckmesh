@@ -27,4 +27,4 @@ No it's not that they're unimportant I just don't know what they're doing and so
 
 **Tzimisce** and **Salubri**: Thank fuck none of these psychos have shown up. If you spot one, maybe don't tell me I don't know that I even want to know.
 
-And of course there's the uncounted and uncountable clanless (clan traitors if you ask me) and duskborn running about. I'm sure is the year the licks over in the [[ShreckMesh/Nightlife, Literally/Emancipated Domain of Montrose\|Emancipated Domain of Montrose]] gets their shit together.
+And of course there's the uncounted and uncountable clanless (clan traitors if you ask me) and duskborn running about. I'm sure is the year the licks over in the [[ShreckMesh/Places/Emancipated Domain of Montrose\|Emancipated Domain of Montrose]] gets their shit together.
