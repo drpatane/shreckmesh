@@ -23,7 +23,7 @@ ___
 **November 1, 2019**: The Primogen of Clan Tremere, one of the few elders to resist the Beckoning, goes missing. Conspiracies abound. 
 
 **January 1, 2020**: Houston's former Seneschal, Castor Augustus, appoints himself Prince. Although highly unusual, the recent abdications from the Court leave little in the way of opposition. It helps that his close ally, Violet Rosenberg is already sheriff. 
-- see: [[ShreckMesh/Kindred and Kine/Sects/The Court of Houston\|The Court of Houston]] and [[ShreckMesh/Kindred and Kine/Sects/Anarch-y in Houston\|Anarch-y in Houston]]
+- see: [[ShreckMesh/Sects and Politics/The Court of Houston\|The Court of Houston]] and [[ShreckMesh/Sects and Politics/Anarch-y in Houston\|Anarch-y in Houston]]
 
 **March 21, 2020:** Someone living, dead, or furry, dusts Clan Brujah's Baron, Maximilian. His disintegrating corpse lands in the middle of a downtown street, packed with drunken kine enjoying the nightlife. The Masquerade is fucked. Accusations fly, conspiracies abound, chaos reigns, etc. The Years of Ash begin. 
 
@@ -40,4 +40,4 @@ ___
 **June 13, 2023:** The sects finally realize that final deathing each other all over the city is bad for business and good for the Second Inquisition. The Camarilla and Anarchs agree to a tenuous peace. Mixed-sect coterie assignments begin as a "token of good faith" but only fools believe that line. The Years of Ash end.
 
 **November 1, 2025**: The remains of the Tremere Primogen are found inside his haven, a secret complex underneath Rice University's Library. Mortal authorities are alerted after smoke alarms go off in the main building. Camarilla agents inside law enforcement report that expended white phosphorus munitions were discovered at the scene. Mortal officials blame a local extremist Christian cult, but conspiracies abound after the members are found dead in an apparent group suicide.
-- see: [[ShreckMesh/Kindred and Kine/Sects/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]
+- see: [[ShreckMesh/Sects and Politics/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]
