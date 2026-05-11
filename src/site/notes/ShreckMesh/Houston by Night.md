@@ -23,7 +23,7 @@ Malkavian bullshit and other ephemera.
 Houston's Kindred are a dramatic bunch, even more so after the primogen left. A short history of modern nights.
 ### [[ShreckMesh/Nightlife, Literally\|Nightlife, Literally]]
 Elysia, kindred haunts, and how to avoid winding up in a Lupine bar.
-### [[ShreckMesh/Important Kindred and Kine\|Important Kindred and Kine]]
+### [[ShreckMesh/Kindred and Kine/Important Kindred and Kine\|Important Kindred and Kine]]
 The Camarilla claims the whole city. The Anarchs claim the whole city. Both are liars.
 
 ---

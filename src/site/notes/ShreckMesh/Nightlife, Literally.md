@@ -20,30 +20,6 @@ The club itself, "El Virreinato" (The Viceroyalty), is Kept by [[Grace Collins\|
 
 The thin-bloods of Montrose declared this nightclub an Elysium during their revolt in 2021. Scoffed at by Camarilla and Anarchs alike, the sects still mostly respect this Elysia. It's always nice to have desperate, deniable connections these nights. Although with the recent ICE raid, some of us are starting to wonder whether it's time to stop humoring the thin-bloods. 
 
-%%
-## Safe for Kindred
-
-### Moontower Inn
-
-### Natsuoh
-
-### Englewood Funeral Home
-
-### House of Pies
-
-### Stratus
-
-### Chase Tower
-
-### The Cistern
-
-### Lola's 
-## Mortals Only
-
-Don't go here if you want to see tomorrow night. 
-
-### 
-
 
 
 
