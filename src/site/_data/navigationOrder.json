@@ -6,23 +6,26 @@
     "Houston by Night",
     "News",
     "Prophecies",
-    "Sects and Politics",
     "Kindred and Kine",
-    "Places",
     "V's Creed",
     "Campaign References"
   ],
-  "/ShreckMesh/Sects and Politics": [
-    "The Court of Houston",
+  "/ShreckMesh/Kindred and Kine": [
+    "Sects and Politics",
+    "Places",
+    "Individuals"
+  ],
+  "/ShreckMesh/Kindred and Kine/Sects and Politics": [
     "Anarch-y in Houston",
     "Hot Single Mortals in Your Area",
-    "Houston for Childer(en)"
+    "Houston for Childer(en)",
+    "The Court of Houston"
   ],
-  "/ShreckMesh/Kindred and Kine": [
-    "Man in Black"
-  ],
-  "/ShreckMesh/Places": [
+  "/ShreckMesh/Kindred and Kine/Places": [
     "Nightlife, Literally"
+  ],
+  "/ShreckMesh/Kindred and Kine/Individuals": [
+    "Man in Black"
   ],
   "/ShreckMesh/V's Creed": [
     "V's Creed",
