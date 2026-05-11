@@ -6,7 +6,6 @@
     "Houston by Night",
     "News",
     "Prophecies",
-    "Houston for Childer(en)",
     "Sects and Politics",
     "Kindred and Kine",
     "Places",
@@ -16,7 +15,8 @@
   "/ShreckMesh/Sects and Politics": [
     "The Court of Houston",
     "Anarch-y in Houston",
-    "Hot Single Mortals in Your Area"
+    "Hot Single Mortals in Your Area",
+    "Houston for Childer(en)"
   ],
   "/ShreckMesh/Kindred and Kine": [
     "Man in Black"
