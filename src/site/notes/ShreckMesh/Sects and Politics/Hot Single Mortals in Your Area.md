@@ -24,7 +24,7 @@ But wait there's more! Hoover's boys over at the FBI have their "Special Affairs
 
 Then you've got all the other TLAs that haven't been read in, but love tracking Americans just the same. ICE, CIA, CDC, etc. can all spot your shit and get you dusted if you're not careful. 
 
-*Editor's Note: Well, well, well, looks like the Cammies are gonna have to do a bit of revision to their bullshit. Word on the mesh is the SI is making overt moves these nights. Maybe they're posing as ICE,  maybe they've started using ICE since they're already crawling all over the city. Also if anyone's got tea on the [[ShreckMesh/Kindred and Kine/Man in Black\|Man in Black]] clue me in.*
+*Editor's Note: Well, well, well, looks like the Cammies are gonna have to do a bit of revision to their bullshit. Word on the mesh is the SI is making overt moves these nights. Maybe they're posing as ICE,  maybe they've started using ICE since they're already crawling all over the city. Also if anyone's got tea on the [[ShreckMesh/Kindred and Kine/Individuals/Man in Black\|Man in Black]] clue me in.*
 
 ### Normies
 

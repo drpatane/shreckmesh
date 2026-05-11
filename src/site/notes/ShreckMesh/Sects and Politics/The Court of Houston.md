@@ -20,7 +20,7 @@ Not much to introduce. If you've made it to your second night in this city, you 
 ### Primogen Council
 
 **Malkavian**: [[Leopold (D00mShr3dder_XxX) Schraeder\|Leopold (D00mShr3dder_XxX) Schraeder]], appointed 2021 by Prince
-**Nosferatu**: [[ShreckMesh/Kindred and Kine/Georgios (Gorgeous) Nikos\|Georgios (Gorgeous) Nikos]], elected 2019 because we have our shit together
-**Toreador**: [[ShreckMesh/Kindred and Kine/Rupert Lightheart\|Rupert Lightheart]], appointed 2022 by Prince
+**Nosferatu**: [[ShreckMesh/Kindred and Kine/Individuals/Georgios (Gorgeous) Nikos\|Georgios (Gorgeous) Nikos]], elected 2019 because we have our shit together
+**Toreador**: [[ShreckMesh/Kindred and Kine/Individuals/Rupert Lightheart\|Rupert Lightheart]], appointed 2022 by Prince
 **Tremere**: None/unknown
-**Lasombra**: [[ShreckMesh/Kindred and Kine/Celia Talley\|Celia Talley]], elected 2019 by clan, takes seat 2024 because our Prince likes dragging his feet
+**Lasombra**: [[ShreckMesh/Kindred and Kine/Individuals/Celia Talley\|Celia Talley]], elected 2019 by clan, takes seat 2024 because our Prince likes dragging his feet
