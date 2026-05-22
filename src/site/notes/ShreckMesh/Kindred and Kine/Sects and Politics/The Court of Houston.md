@@ -15,7 +15,7 @@ Not much to introduce. If you've made it to your second night in this city, you 
 **Sheriff**: [[3 Characters/3.2 NPCs/Violet Rosenberg\|Violet Rosenberg]], Clan Banu Hakim
 **Herald**: None appointed 
 **Principal of the Faith**: [[3 Characters/3.2 NPCs/Francesca Aragon\|Francesca Aragon]], Clan Lasombra
-**Keeper of Elysium:** [[Grace Collins\|Grace Collins]], Clan Malkavian
+**Keeper of Elysium:** [[4 Locations/Grace Collins\|Grace Collins]], Clan Malkavian
 
 ### Primogen Council
 

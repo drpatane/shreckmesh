@@ -15,7 +15,7 @@ Safe upon penalty of final death. No fighting, no Masquerade breaches, no fuckin
 
 Mortals claim this is the oldest bar in Houston. It's not. It opened in the 50s. The *building* is one of the oldest in Houston and has been the site of Elysium since it's construction. 
 
-The club itself, "El Virreinato" (The Viceroyalty), is Kept by [[Grace Collins\|Grace Collins]] of Clan Malkavian. Always seen in white flowing dresses, she revels in the mortal myths of the ghosts haunting La Carafe.
+The club itself, "El Virreinato" (The Viceroyalty), is Kept by [[4 Locations/Grace Collins\|Grace Collins]] of Clan Malkavian. Always seen in white flowing dresses, she revels in the mortal myths of the ghosts haunting La Carafe.
 ### Numbers
 
 The thin-bloods of Montrose declared this nightclub an Elysium during their revolt in 2021. Scoffed at by Camarilla and Anarchs alike, the sects still mostly respect this Elysia. It's always nice to have desperate, deniable connections these nights. Although with the recent ICE raid, some of us are starting to wonder whether it's time to stop humoring the thin-bloods. 
