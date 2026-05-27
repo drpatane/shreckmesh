@@ -15,3 +15,4 @@
 [[ShreckMesh/V's Creed/9 - Questions with No Answers\|9 - Questions with No Answers]]
 [[ShreckMesh/V's Creed/10 - This Masquerade\|10 - This Masquerade]]
 [[ShreckMesh/V's Creed/11 - Midnight\|11 - Midnight]]
+[[ShreckMesh/V's Creed/12 - Deals with Devils\|12 - Deals with Devils]]
