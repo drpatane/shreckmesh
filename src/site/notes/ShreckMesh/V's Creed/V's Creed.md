@@ -16,3 +16,5 @@
 [[ShreckMesh/V's Creed/10 - This Masquerade\|10 - This Masquerade]]
 [[ShreckMesh/V's Creed/11 - Midnight\|11 - Midnight]]
 [[ShreckMesh/V's Creed/12 - Deals with Devils\|12 - Deals with Devils]]
+[[ShreckMesh/V's Creed/13 - The Face Led Us Here\|13 - The Face Led Us Here]]
+
