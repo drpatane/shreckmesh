@@ -11,10 +11,8 @@ Relevant out-of-character references or information.
 > Your quest tracker, but more nonchalant
 > ### To Do
 > - Figure out what to do with the letters
-> - Check out Genevieve's Haven and deliver her to Father Rafael/The Sheriff
-> -  Visit the hunter's address in the Woodlands
+> - Deliver Genevieve to...someone 
 > ### In Progress
-> - Discover who explosively exsanguinated an Order of St. Leopold priest
 > - Figure out the full meaning of the grimoire page found in the Tremere Primogen's haven 
 > - Deal with the Man in Black
 > - Whatever the fuck is going on with Teeth
@@ -22,6 +20,8 @@ Relevant out-of-character references or information.
 > - Return Bear to Deker Raine, avoid pissing off the Baron
 > 	- He seemed weird but otherwise fine
 > - Execute the distraction party at the Museum of Fine Arts and steal the letters
+> - Discover who explosively exsanguinated an Order of St. Leopold priest
+> - Visit the hunter's address in the Woodlands
 
 ---
 
