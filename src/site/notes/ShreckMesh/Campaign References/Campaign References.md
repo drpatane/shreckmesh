@@ -56,6 +56,7 @@ Selecting this flaw allows you to purchase a **total of three ranks** of new pow
 
 You can only have one Ingrained Discipline flaw, and it can only be in a clan discipline.
 
+---
 ## Tama-Ghoul-chis
 
 Shockingly there are no specific rules for leveling up ghouls, so I collected what is available and then made the rest the fuck up. 
