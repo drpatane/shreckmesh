@@ -72,6 +72,7 @@ Ghouls can spend their experience to increase advantages, attributes, skills, or
 | Increase Attribute | new level x 7 |
 | Increase Skill     | new level x 5 |
 | New Specialty      | 7             |
+
 Ghouls can purchase additional level 1 discipline powers for 10 experience. It must belong to their domitor's available disciplines. Since ghouls can only ever have one dot in disciplines, they are effectively buying the ability to swap one power for another. 
 
 Ghouls **cannot**: 
