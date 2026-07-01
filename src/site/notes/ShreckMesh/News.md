@@ -5,12 +5,21 @@
 # News
 
 
-> [!quote] Fine Arts Gala a Dumpster Fire
-> *KHOU, 5/1/2026*
+> [!quote] Brutal Gas Station Assault Clouded in Mystery
 > 
-> An exclusive masquerade ball celebrating MFA Houston's exhibition of romantic calligraphy turned into a literal dumpster fire last week. "We had just witnessed one of the finest performance art pieces of the decade when every light in the building went out!" said one anonymous witness. An HPD spokesman stated that security footage from before the blackout showed nothing suspicious.
+> *KHOU, 6/24/2026*
 > 
-> First responders have yet to identify the cause of a nearby dumpster fire. This and discovery of an unknown device in a museum service area caused officials to reach out to local ATF and FBI field offices. Neither returned requests for comment, citing ongoing investigations. 
+> HPD have opened a tip line requesting information that can lead to the apprehension of those responsible for the shocking homicide of a man at a North Houston gas station. The investigation has been hampered by as yet unexplained technical problems with the station's security cameras and the inability of the lone witness to recall any details of the event. 
+> 
+> The Harris County Medical Examiner's office have yet to issue an official cause of death for the victim, citing ongoing consultation with the Houston field office of the Federal Bureau of Investigation.
+
+
+> [!quote] On Recent Noise Complaints
+> *Excerpt from email sent to River Oaks Homeowners Association mailing list*
+> 
+> Just a friendly reminder to all residents that quiet hours begin at 9:30pm. We've received several noise complaints about loud arguing outdoors at all hours of the night. On FRONT lawns. Yelling about murder and suicide at times like these is not cool or edgy or "lit" as the kids say. It cheapens our neighborhood and ourselves. Please note that your homeowner agreements authorize a nightly fine of $500 per noise infraction. 
+> 
+> Lastly, I'd like to take a moment to point out that gossip does nothing but make us look bad. I'm sure whoever this "Frank" is wouldn't be very happy to hear his friends (who I'm sure are lovely otherwise) speak this way about him. 
 
 ---
 
@@ -26,6 +35,14 @@
 > 
 > Stay AWAKE out there fellow moms!
 
+---
+
+> [!quote] Fine Arts Gala a Dumpster Fire
+> *KHOU, 5/1/2026*
+> 
+> An exclusive masquerade ball celebrating MFA Houston's exhibition of romantic calligraphy turned into a literal dumpster fire last week. "We had just witnessed one of the finest performance art pieces of the decade when every light in the building went out!" said one anonymous witness. An HPD spokesman stated that security footage from before the blackout showed nothing suspicious.
+> 
+> First responders have yet to identify the cause of a nearby dumpster fire. This and discovery of an unknown device in a museum service area caused officials to reach out to local ATF and FBI field offices. Neither returned requests for comment, citing ongoing investigations. 
 
 
 
