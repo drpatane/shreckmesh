@@ -9,17 +9,17 @@
 > 
 > *KHOU, 6/24/2026*
 > 
-> HPD have opened a tip line requesting information that can lead to the apprehension of those responsible for the shocking homicide of a man at a North Houston gas station. The investigation has been hampered by as yet unexplained technical problems with the station's security cameras and the inability of the lone witness to recall any details of the event. 
+> HPD have offered a reward for those with information that leads to the apprehension of the individual or individuals responsible for an apparent homicide of a man at a North Houston gas station. The investigation has been hampered by as yet unexplained technical problems with the station's security cameras and the inability of the lone witness to recall substantive details of the event. 
 > 
-> The Harris County Medical Examiner's office have yet to issue an official cause of death for the victim, citing ongoing consultation with the Houston field office of the Federal Bureau of Investigation.
+> The Harris County Medical Examiner's office has yet to issue an official cause of death for the victim, citing ongoing consultation with the Houston field office of the Federal Bureau of Investigation.
 
 
 > [!quote] On Recent Noise Complaints
 > *Excerpt from email sent to River Oaks Homeowners Association mailing list*
 > 
-> Just a friendly reminder to all residents that quiet hours begin at 9:30pm. We've received several noise complaints about loud arguing outdoors at all hours of the night. On FRONT lawns. Yelling about murder and suicide at times like these is not cool or edgy or "lit" as the kids say. It cheapens our neighborhood and ourselves. Please note that your homeowner agreements authorize a nightly fine of $500 per noise infraction. 
+> Just a friendly reminder to all residents that quiet hours begin at 9:30pm. We've received several noise complaints about screaming at all hours of the night. On FRONT lawns facing our PUBLIC streets! Shameful. Please keep domestic disputes indoors where they belong. Further, yelling about murder and suicide at times like these is not cool or edgy or "lit" as the kids say. It cheapens our neighborhood and ourselves. Please note that your homeowner agreements authorize a nightly fine of $500 per noise infraction. 
 > 
-> Lastly, I'd like to take a moment to point out that gossip does nothing but make us look bad. I'm sure whoever this "Frank" is wouldn't be very happy to hear his friends (who I'm sure are lovely otherwise) speak this way about him. 
+> Lastly, I'd like to take a moment to point out that gossip does nothing but make us look bad. I'm sure whoever this "Frank" is wouldn't be very happy to hear his friends (who I'm sure are lovely people otherwise) speak this way about him. 
 
 ---
 
