@@ -18,4 +18,7 @@
 [[ShreckMesh/V's Creed/12 - Deals with Devils\|12 - Deals with Devils]]
 [[ShreckMesh/V's Creed/13 - The Face Led Us Here\|13 - The Face Led Us Here]]
 [[ShreckMesh/V's Creed/14 - Witch Hunt\|14 - Witch Hunt]]
-*[[ShreckMesh/V's Creed/15 - Dr. Nero's Log\|15 - Dr. Nero's Log]]*
+*[[ShreckMesh/V's Creed/15.1 - Dr. Nero's Log\|15.1 - Dr. Nero's Log]]*
+[[ShreckMesh/V's Creed/15.2 - Endless Night\|15.2 - Endless Night]]
+
+
