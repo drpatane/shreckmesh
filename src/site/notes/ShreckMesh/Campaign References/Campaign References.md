@@ -91,7 +91,7 @@ Similarly, ghouls may develop compulsions that mirror that of their domitor over
 
 [[ShreckMesh/Campaign References/Campaign Boundaries\|Campaign Boundaries]], for everyone's limits. 
 [[ShreckMesh/Campaign References/Your Coterie Sheet\|Your Coterie Sheet]], your group resources and contacts. 
-[[ShreckMesh/Campaign References/Relationship Map\|Relationship Map]], how you know each other and how you feel about it. 
+[[ShreckMesh/Campaign References/Relationship Map.canvas\|Relationship Map.canvas]] how you know each other and how you feel about it. 
 [[ShreckMesh/Campaign References/What Them Dice Do\|What Them Dice Do]], how to interpret the dice and count your rolls.
 [[ShreckMesh/Campaign References/New Discipline Power Steps\|New Discipline Power Steps]]
 

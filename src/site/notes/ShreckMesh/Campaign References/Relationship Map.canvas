@@ -71,13 +71,6 @@ pretentious</text>
 		<div class="canvas-node canvas-node-group has-color" data-node-id="3432df8100dea5a2" style="transform: translate(-880px, -1160px); width: 1800px; height: 1100px; --canvas-color: #fb464c; ">
 	<div class="canvas-node-label">Astra&#039;s Coterie</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="dd2d8b12c436cd91" style="transform: translate(-860px, -710px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBTYWludA=="></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="04430d78304bb5ab" style="transform: translate(-860px, -610px); width: 260px; height: 60px; --canvas-color: #fb464c;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
@@ -89,27 +82,6 @@ pretentious</text>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="ICMgVGVldGg="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="05a2291b1dfe997f" style="transform: translate(-310px, -270px); width: 260px; height: 60px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBGcmFuayBCYXJyb3dtYW4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="7b1018d364069cf9" style="transform: translate(60px, -270px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBKdWFuIFJpdmVyYQ=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="8ee278846f2b6b8f" style="transform: translate(-310px, -210px); width: 260px; height: 60px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBHZW5ldmlldmUgRmlzY2hlcg=="></div>
 		</div>
 	</div>
 </div>
@@ -218,27 +190,6 @@ pretentious</text>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="096a7f9918998a00" style="transform: translate(-310px, -1150px); width: 260px; height: 60px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBLYXRlcmluYSBUcm9pa2E="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="8eb45fcd44c3bada" style="transform: translate(-310px, -1090px); width: 260px; height: 60px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBEb2xhbiBIZWFydGg="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="02de1d5b287fd8ec" style="transform: translate(-310px, -720px); width: 80px; height: 80px; --canvas-color: #000000;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/9%20Archive/1024px-Ravnos_symbol.png" alt="1024px-Ravnos_symbol.png" loading="lazy" />
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="97686eed6944d275" style="transform: translate(60px, -1060px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
@@ -250,13 +201,6 @@ pretentious</text>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="IyMjIyBEb3VnIExhbmRvbg=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="a9571fc6aec18fab" style="transform: translate(-310px, -1000px); width: 260px; height: 60px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="IyMjIyBKYXlkZW4gQ3Jvc3M="></div>
 		</div>
 	</div>
 </div>
@@ -295,17 +239,73 @@ pretentious</text>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="190eee0b064491af" style="transform: translate(271px, -720px); width: 99px; height: 80px; --canvas-color: #000000;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/9%20Archive/1272px-Hecata_symbol.png" alt="1272px-Hecata_symbol.png" loading="lazy" />
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="78350259bb803b5e" style="transform: translate(-140px, -1545px); width: 80px; height: 80px; --canvas-color: #000000;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/9%20Archive/Tzimisce_symbol.png" alt="Tzimisce_symbol.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="dd2d8b12c436cd91" style="transform: translate(-860px, -710px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBTYWludA=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="05a2291b1dfe997f" style="transform: translate(-310px, -270px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBGcmFuayBCYXJyb3dtYW4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="7b1018d364069cf9" style="transform: translate(60px, -270px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBKdWFuIFJpdmVyYQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="8ee278846f2b6b8f" style="transform: translate(-310px, -210px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBHZW5ldmlldmUgRmlzY2hlcg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="096a7f9918998a00" style="transform: translate(-310px, -1150px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBLYXRlcmluYSBUcm9pa2E="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="8eb45fcd44c3bada" style="transform: translate(-310px, -1090px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBEb2xhbiBIZWFydGg="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="02de1d5b287fd8ec" style="transform: translate(-310px, -720px); width: 80px; height: 80px; --canvas-color: #000000;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/9%20Archive/1024px-Ravnos_symbol.png" alt="1024px-Ravnos_symbol.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="a9571fc6aec18fab" style="transform: translate(-310px, -1000px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyMjIyBKYXlkZW4gQ3Jvc3M="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="190eee0b064491af" style="transform: translate(271px, -720px); width: 99px; height: 80px; --canvas-color: #000000;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/9%20Archive/1272px-Hecata_symbol.png" alt="1272px-Hecata_symbol.png" loading="lazy" />
 		</div>
 	</div>
 </div>
