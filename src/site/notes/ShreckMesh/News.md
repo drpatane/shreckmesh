@@ -10,7 +10,7 @@
 > 
 > An East Downtown structure fire turned tragic in the early hours Thursday. First responders discovered the bodies of several dozen, all of whom had been imprisoned in locked shipping containers.
 > 
-> Vinh Tran, a public information officer for the Houston Fire Department commented: "HFD responded quickly, but the fire was already too intense for safe entry and we believed the building to be abandoned. This incident tragically highlights how important this city's efforts to combat human trafficking truly are."
+> Vinh Tran, a public information officer for the Houston Fire Department, commented: "HFD responded quickly, but the fire was already too intense for safe entry and we believed the building to be abandoned. This incident tragically highlights how important this city's efforts to combat human trafficking truly are."
 > 
 > The fire is still under investigation. The names of the victims are being withheld pending identification and notification of family. 
 > 
@@ -22,11 +22,11 @@
 > I really need everyone to chill out on the conspiracy theories about "who killed Travis." His final stream is so clearly AI generated it hurts: 
 > 
 > 1. The flames are clearly overlaid on top of the video itself, you can tell because of the inconsistent shadows
-> 	
+> 
 > 2. Despite what people believe, those containers are solid steel, there's no way they can catch on fire (not to mention why would he even be in one???)
-> 	
-> 3. His voice sounds nothing like any of his other streams. It's too slow and confused and not nearly panicked enough for a person being burned to death. He's clearly doing some very obvious acting
-> 	
+> 
+> 3.  His voice sounds nothing like any of his other streams. It's too slow and confused and not nearly panicked enough for a person being burned to death. He's clearly doing some very obvious acting
+> 
 > 4. Nothing in this video "moves" right. Why all the flopping around? Why no attempts to escape? Why does the camera never move? 
 > 
 > tl;dr Most "shocking death" videos on the internet are fake, so we should assume this one is too unless someone manages to come up with actual proof. I give it two weeks before Trav reveals that this was all some kind of joke. Personally I think he should be practicing so he stops feeding with all the stupid dives he's been taking in ranked. 
