@@ -29,25 +29,33 @@
   ],
   "/ShreckMesh/V's Creed": [
     "V's Creed",
-    "1 - There Were Five",
-    "2 - Lamb's Blood",
-    "3 - A String to Pull",
-    "4 - The Shape of a Home",
-    "5 - Ambush",
-    "6 - A Show for the Watcher",
-    "7 - Three Observations",
-    "8 - Words We Follow",
-    "9 - Questions with No Answers",
-    "10 - This Masquerade",
-    "11 - Midnight"
+    "0 - There Were Five",
+    "1 - Lamb's Blood",
+    "2- A String to Pull",
+    "3- The Shape of a Home",
+    "4- Ambush",
+    "5- A Show for the Watcher",
+    "6 - Three Observations",
+    "7 - Words We Follow",
+    "8- Questions with No Answers",
+    "9 - This Masquerade",
+    "10 - Midnight",
+    "11 - Deals with Devils",
+    "12 - The Face Led Us Here",
+    "13 - Witch Hunt",
+    "14.1 - Dr. Nero's Log",
+    "14.2 - Endless Night",
+    "15 - The Spider's Web",
+    "16 - Negotiations",
+    "17 - TBD"
   ],
   "/ShreckMesh/Campaign References": [
+    "Campaign References",
+    "What Them Dice Do",
     "Ingrained Discipline Flaws",
-    "Campaign Boundaries",
+    "New Discipline Power Steps",
     "Your Coterie Sheet",
     "Relationship Map",
-    "New Discipline Power Steps",
-    "What Them Dice Do",
-    "Campaign References"
+    "Campaign Boundaries"
   ]
 }
