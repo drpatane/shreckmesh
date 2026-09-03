@@ -29,9 +29,9 @@ Relevant out-of-character references or information.
 
 | Sources                     | Points |
 | :-------------------------- | :----: |
-| Session XP (2 per session): |   30   |
+| Session XP (2 per session): |   32   |
 | Story/Quest Completion:     |   15   |
-| **Running Total**           | **45** |
+| **Running Total**           | **47** |
 ## Spending Experience
 
 Note: "New level" refers to the number of the level you'll be moving up to. For example, if you were moving from Level 1 of Obfuscate to Level 2, you would need to spend 2x5, or 10, experience points. 

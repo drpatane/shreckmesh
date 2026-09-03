@@ -22,5 +22,5 @@
 [[ShreckMesh/V's Creed/14.2 - Endless Night\|14.2 - Endless Night]]
 [[ShreckMesh/V's Creed/15 - The Spider's Web\|15 - The Spider's Web]]
 [[ShreckMesh/V's Creed/16 - Negotiations\|16 - Negotiations]]
-[[ShreckMesh/V's Creed/17 - TBD\|17 - TBD]]
+[[ShreckMesh/V's Creed/17 - A Place for Peace\|17 - A Place for Peace]]
 
