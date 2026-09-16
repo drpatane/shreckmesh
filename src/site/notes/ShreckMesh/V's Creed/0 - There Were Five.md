@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/0-there-were-five/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/0-there-were-five/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
-
 
 # There Were Five
 
