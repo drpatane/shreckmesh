@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/3-the-shape-of-a-home/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/3-the-shape-of-a-home/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 

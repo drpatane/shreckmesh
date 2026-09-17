@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/17-a-place-for-peace/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/17-a-place-for-peace/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # A Place for Peace

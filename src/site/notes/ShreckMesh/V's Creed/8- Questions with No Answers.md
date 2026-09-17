@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/8-questions-with-no-answers/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/8-questions-with-no-answers/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # Questions With No Answers

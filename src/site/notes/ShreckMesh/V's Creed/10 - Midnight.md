@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/10-midnight/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/10-midnight/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # Midnight

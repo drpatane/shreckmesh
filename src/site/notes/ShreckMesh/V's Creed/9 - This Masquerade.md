@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/9-this-masquerade/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/9-this-masquerade/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # This Masquerade

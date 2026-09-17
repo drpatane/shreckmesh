@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/15-the-spider-s-web/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/15-the-spider-s-web/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # The Spider's Web

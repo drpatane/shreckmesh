@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/4-ambush/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/4-ambush/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 

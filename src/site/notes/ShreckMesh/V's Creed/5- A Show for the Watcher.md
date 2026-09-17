@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/5-a-show-for-the-watcher/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/5-a-show-for-the-watcher/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # A Show for the Watcher

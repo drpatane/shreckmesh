@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/12-the-face-led-us-here/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/12-the-face-led-us-here/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # The Face Led Us Here

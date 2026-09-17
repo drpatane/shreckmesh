@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/2-a-string-to-pull/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/2-a-string-to-pull/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # A String to Pull

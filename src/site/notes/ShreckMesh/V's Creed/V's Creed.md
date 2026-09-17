@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/v-s-creed/","dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/v-s-creed/","tags":["poetry"],"dg-note-properties":{"aliases":null,"tags":["poetry"]}}
 ---
 
 # Observations
@@ -23,4 +23,5 @@
 [[ShreckMesh/V's Creed/15 - The Spider's Web\|15 - The Spider's Web]]
 [[ShreckMesh/V's Creed/16 - Negotiations\|16 - Negotiations]]
 [[ShreckMesh/V's Creed/17 - A Place for Peace\|17 - A Place for Peace]]
+[[ShreckMesh/V's Creed/18 - Protection\|18 - Protection]]
 

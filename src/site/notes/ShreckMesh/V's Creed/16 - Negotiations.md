@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/16-negotiations/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/16-negotiations/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # Negotiations

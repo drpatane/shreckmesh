@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/13-witch-hunt/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/13-witch-hunt/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # 14 - Witch Hunt

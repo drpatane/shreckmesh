@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/6-three-observations/","dg-note-properties":{"al":"Three Observations"}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/6-three-observations/","tags":["poetry"],"dg-note-properties":{"al":"Three Observations","tags":["poetry"]}}
 ---
 
 # Three Observations

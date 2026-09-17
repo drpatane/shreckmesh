@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/11-deals-with-devils/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/11-deals-with-devils/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
 # Deals with Devils
