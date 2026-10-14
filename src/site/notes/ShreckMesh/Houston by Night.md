@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
-> [!failure] MESH_INTRUSION
-> HEARTBEAT_DETECT: METANARRATIVE_EXCEPTION
-> HEARTBEAT_CLASS: STORYTELLER?
->   **[[ShreckMesh/Campaign References/References\|References]]**
 # Houston by Night
 
 *created by DraC00La, 10/22/2025*
@@ -19,12 +14,16 @@ What is this place? Why, it's SchreckNet 2.0! Now using the most secure and dece
 Shit happens. Sometimes Kindred need to know about it. Being aloof didn't help the elders anyway. 
 ### [[ShreckMesh/Prophecies\|Prophecies]]
 Malkavian bullshit and other ephemera.
-### Kindred and Kine
-- [[ShreckMesh/Kindred and Kine/Sects and Politics/The Court of Houston\|The Court of Houston]], Camarilla who will abuse you.
-- [[ShreckMesh/Kindred and Kine/Sects and Politics/Anarch-y in Houston\|Anarch-y in Houston]], Anarchs who will abuse you.
-- [[ShreckMesh/Kindred and Kine/Sects and Politics/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]], Mortals who will dust you.
-- [[ShreckMesh/Kindred and Kine/Places/Nightlife, Literally\|Nightlife, Literally]], Elysia, kindred haunts, and how to avoid winding up in a Lupine bar
-- [[ShreckMesh/Kindred and Kine/Sects and Politics/Houston for Childer(en)\|Houston for Childer(en)]], Houston's Kindred are a dramatic bunch, even more so after the primogen left. A short history of modern nights.
+### [[ShreckMesh/Kindred and Kine/Sects and Politics/Houston for Childer(en)\|Houston for Childer(en)]]
+Houston's Kindred are a dramatic bunch, even more so after the primogen left. A short history of modern nights.
+### [[ShreckMesh/Kindred and Kine/Sects and Politics/The Court of Houston\|The Court of Houston]]
+The Camarilla who will abuse you.
+### [[ShreckMesh/Kindred and Kine/Sects and Politics/Anarch-y in Houston\|Anarch-y in Houston]]
+Anarchs who will abuse you.
+### [[ShreckMesh/Kindred and Kine/Sects and Politics/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]
+Mortals who will dust you.
+### [[ShreckMesh/Kindred and Kine/Places/Nightlife, Literally\|Nightlife, Literally]]
+Elysia, kindred haunts, and how to avoid winding up in a Lupine bar
 
 ---
 # [[ShreckMesh/V's Creed/V's Creed\|V's Creed]]
@@ -32,6 +31,14 @@ Malkavian bullshit and other ephemera.
 
 Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
 
+---
+
+> [!failure] MESH_INTRUSTION_DETECT
+> PURGE OVERRIDE
+> HEARTBEAT_DETECT: METANARRATIVE_EXCEPTION
+> HEARTBEAT_CLASS: STORYTELLER? 
+> ##  Campaign [[ShreckMesh/Campaign References/References\|References]]
+> For everything you forgot, and keep forgetting...
 
 
 
