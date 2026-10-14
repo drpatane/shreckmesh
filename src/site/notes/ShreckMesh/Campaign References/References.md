@@ -4,7 +4,7 @@
 
 # References:
 
-## [[Mission Log \|Mission Log ]]
+## [[ShreckMesh/Campaign References/Mission Log\|Mission Log]]
 
 Your to do list.
 ## [[ShreckMesh/Campaign References/Experience and Leveling\|Experience and Leveling]]
