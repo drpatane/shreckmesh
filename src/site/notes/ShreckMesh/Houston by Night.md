@@ -26,7 +26,7 @@ Mortals who will dust you.
 Elysia, kindred haunts, and how to avoid winding up in a Lupine bar
 
 ---
-# [[ShreckMesh/V's Creed/V's Creed\|V's Creed]]
+## [[ShreckMesh/V's Creed/V's Creed\|V's Creed]]
 *created (with regret) by DraC00La, 10/28/2025*
 
 Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
