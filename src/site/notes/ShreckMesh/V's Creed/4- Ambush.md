@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/shreck-mesh/v-s-creed/4-ambush/","tags":["poetry"],"dg-note-properties":{"tags":["poetry"]}}
 ---
 
-
 # Ambush
 
 *observed on 1/15/2026*
