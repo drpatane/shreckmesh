@@ -3,6 +3,7 @@
 ---
 
 # Experience and Leveling
+
 ## Current Experience (as of 9/17/2026)
 
 | Sources                     | Points |
@@ -13,6 +14,8 @@
 ## Spending Experience
 
 Note: "New level" refers to the number of the level you'll be moving up to. For example, if you were moving from Level 1 of Obfuscate to Level 2, you would need to spend 2x5, or 10, experience points. 
+
+[[ShreckMesh/Campaign References/New Discipline Power Steps\|New Discipline Power Steps]]
 
 | Trait Costs             | XP Cost                           |
 | ----------------------- | --------------------------------- |
