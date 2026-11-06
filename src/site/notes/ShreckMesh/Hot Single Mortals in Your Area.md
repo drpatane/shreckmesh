@@ -16,7 +16,7 @@ Anyway, congrats. You have the joy of un-living under the greatest security and 
 
 Of course the original Bible thumpers are here, they've been hunting us for millennia. We've had reports of priests in the Society of St. Leopold poking around, but the church is so byzantine who knows what other groups of collared freaks are snooping around. 
 
-### Feds
+### [[ShreckMesh/Feds\|Feds]]
 
 You all already know about FIRSTLIGHT, the NSA's favorite little conspiracy. The Cammies use these guys as bedtime stories to scare Childer after they infiltrated the OG Shrecknet (and oh how they never let us Nosferatu forget it). If you're stupid online, these fucks will black bag you. So don't fucking fedpost.
 
@@ -30,10 +30,3 @@ Then you've got all the other TLAs that haven't been read in, but love tracking 
 
 Sometimes a mortal sees something they shouldn't, they get a "message from god," or simply read too much Supernatural fanfic and decide to go hunting. Some are competent, most aren't. They can all still fuck you up if you're not on your toes. 
 
-## The Mortals
-
-### The Man in Black
-
-Several kindred slumming it in the "Emancipated" Domain told me they saw a dude dressed in a black suit around the same time ICE hit Numbers. That's creepy. 
-
-Anyone who can drop some intel on this guy would have our gratitude. 

@@ -4,6 +4,45 @@
 
 # News
 
+> [!quote] Montrose Shootout Sparks Federal Response
+> 
+> *Houston Chronicle, 10/24/2026*
+> 
+> The normally happy atmosphere of a Montrose weekend was interrupted by what the FBI is labeling a domestic terrorist attack. In the early hours of the morning, agents serving a search warrant at the romance bookstore "Sucked Dry" were met with IEDs and incendiary devices. Several unknown assailants were witnessed fleeing the scene.  Store employees are as yet unable to provide witness statements due to "apparent aggressive delirium" according to officials. One employee died from injuries sustained after one of the responding agents was forced to discharge their weapon. Several other employees required sedation. They are being held in protective custody pending investigation. 
+> 
+> It is unclear if or how this is related to other recent cases of arson around the city. 
+
+> [!quote] Gang Violence Crisis in Houston
+> 
+> *Transcript of "Right Bank Bayou with Jim Sheldon" Radio Broadcast, 740 KTRH, 10/24/2026*
+> 
+> "This is an unfortunate but inevitable consequences of weak border enforcement. These gangs come into our city and people get hurt. I applaud the efforts of our law enforcement, and I echo the sentiments of all Houstonians when I say the FBI should turn this place into a free fire zone until these animals are brought to justice."
+
+*Editor's note: shout out to @BtheBeauty for this little intelligence coup. Hope you didn't have to...burn too many sources to get this*
+
+> [!quote] Operation Vassal After Action Report
+> ```
+> -----
+> TOP SECRET//SAD//FIRSTLIGHT//IAO//<REDACTED>
+> FM <REDACTED>/<REDACTED>
+> TO <REDACTED>
+> CC <REDACTED>
+> -----
+> 
+> DATE: OCT 22/2026
+> 
+> AAR OPERATION VASSAL
+> 
+> RESULT: Combat initiated with Blanbody party with at least one casualty reported. UTR THANATOS 100% loss. Significant intelligence gain.
+> 
+> CONCLUSION: Mixed success. "Red Mist" efficacy confirmed. Blankbody activity confirmed and escalating. Blankbody networks traced. UTR escalation authorized. Closer coordination with Holy See authorized. 
+> 
+> RECOMMENDATIONS: Escalate UTR activity. Increase coordination with Holy See. Unseal Casket X-017.
+> 
+> NOTES: Don't let the positive spin fool you, this was embarassing. An entire UTR and a Sicarius lost and the parasites still got away. We need to stop fucking around and crush these fuckers.
+
+---
+
 > [!quote] Fire Uncovers Trafficking Tragedy
 > 
 > *Houston Chronicle, 7/29/2026*
