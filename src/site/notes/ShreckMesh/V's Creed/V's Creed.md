@@ -26,3 +26,4 @@
 [[ShreckMesh/V's Creed/18 - Protection\|18 - Protection]]
 *[[ShreckMesh/V's Creed/19 - OPERATION VASSAL\|19 - OPERATION VASSAL]]*
 [[ShreckMesh/V's Creed/20 - Cold Fire\|20 - Cold Fire]]
+[[ShreckMesh/V's Creed/21 - Falling Star\|21 - Falling Star]]
