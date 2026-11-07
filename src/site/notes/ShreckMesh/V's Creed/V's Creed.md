@@ -25,4 +25,4 @@
 [[ShreckMesh/V's Creed/17 - A Place for Peace\|17 - A Place for Peace]]
 [[ShreckMesh/V's Creed/18 - Protection\|18 - Protection]]
 *[[ShreckMesh/V's Creed/19 - OPERATION VASSAL\|19 - OPERATION VASSAL]]*
-
+[[ShreckMesh/V's Creed/20 - Cold Fire\|20 - Cold Fire]]
